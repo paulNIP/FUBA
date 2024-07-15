@@ -1,4 +1,7 @@
 {
   "name": "FUBA",
-  "displayName": "FUBA"
+  "displayName": "FUBA",
+  "plugins": [
+    "expo-video"
+  ]
 }
